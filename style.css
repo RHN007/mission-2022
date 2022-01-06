@@ -13,6 +13,7 @@ p {
   font-weight: normal;
   font-size: 18px;
   line-height: 30px;
+  color: gray;
 }
 h2 {
   font-family: Poppins;
@@ -115,7 +116,17 @@ footer {
   top: 2997px;
   border-radius: 0px;
 }
+#connect{
+  
+ float: right;
+ width:520px;;
+}
 
+.connection-head{
+  color: tomato;
+  text-align: center;
+  font-size: 48px
+}
 footer h1 {
   font-family: "Lobster", cursive;
   font-style: normal;
