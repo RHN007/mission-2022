@@ -2,6 +2,14 @@
   font-family: "Poppins", sans-serif;
 }
 
+section {
+  margin-bottom: 50px;
+  height: 400px;
+  padding: 0;
+}
+h3 {
+  font-size: 25px;
+}
 .top-headline {
   font-family: "Yeseva One", cursive;
   font-size: 60px;
@@ -32,5 +40,45 @@
   padding-left: 5%;
 }
 .half-width img {
-  width: 75%;
+  width: 80%;
+  height: 100%;
+}
+.m-font {
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 48px;
+  text-align: center;
+}
+
+.one-third-width {
+  width: 33%;
+}
+
+.mission,
+.vision,
+.goals {
+  border-radius: 26px;
+  padding-left: 30px;
+  margin: 30px;
+}
+
+.mission {
+  background-color: rgba(79, 157, 166, 0.1);
+}
+
+.vision {
+  background-color: rgba(255, 89, 89, 0.1);
+  /* border-radius: 26px;
+  text-align: center; */
+}
+
+.goals {
+  background-color: #fff4d6;
+  /* border-radius: 26px;
+  text-align: center; */
+}
+
+.mvg img {
+  width: 30%;
+  padding-top: 10%;
 }
